@@ -1,0 +1,5 @@
+# HELLO-WORLD
+//Este resopositorio es para practicar el flugo de GITHUD
+int alguien;
+std::cout<<"quién se comio mi queso";
+std::cin>>alguien;
